@@ -24,10 +24,10 @@ body {
 
 @media screen and (max-width: 767px) {
   .carousel-caption {
-    padding: 0 35px;
+    padding: 0 30px;
   }
   .carousel-caption h1 {
-    font-size: 22px;
+    font-size: 20px;
   }
 }
 
