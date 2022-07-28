@@ -22,6 +22,12 @@ body {
   background: rgba(29, 29, 29, 0.7);
 }
 
+@media screen and (max-width: 480px) {
+  .carousel-caption {
+    top: 43% !important;
+  }
+}
+
 @media screen and (max-width: 767px) {
   .carousel-caption {
     padding: 0 30px;
